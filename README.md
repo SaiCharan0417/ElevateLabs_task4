@@ -18,6 +18,10 @@ The goal of this task is to apply SQL for real-world data analysis — extractin
 * **Views** — for reusable query results
 * **Indexes** — for query performance optimization
 
+## DATASET
+
+* ecommerce.csv from kaggle
+
 ## 💡 Learnings
 
 * Strengthened understanding of SQL query writing and optimization
